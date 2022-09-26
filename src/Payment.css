@@ -1,0 +1,11 @@
+.payment_section{
+    display: flex;
+    padding: 20px;
+}
+.payment_details,.payment__items,.payment_address{
+    flex: 0.8;
+    padding: 20px;
+}
+.payment_container{
+    padding: 20px;
+}
